@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShashankAngelOne
 - 👀 I’m interested in simplifying my life :)
 - 🌱 I’m currently learning new things everyday
-- 💞️ I’m looking to collaborate on AMX, KYC, AROM, WMS
+- 💞️ I’m looking to collaborate on Mutual funds, Loans, Insurance, SBG, FD, Bonds, etc
 - 📫 How to reach me email/slack/phone (specifics available on Darwinbox)
 
 <!---
